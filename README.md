@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jag46
-- 👀 I’m interested in JavaScript automation framework build
+- 👀 I’m interested in JavaScript and Python automation framework build
 - 🌱 I’m currently learning automation engineering
 - 💞️ I’m looking to collaborate with automation or test engineers
 - 📫 How to reach me @http://linkedin.com/in/jagadish-b-r-3626705a
